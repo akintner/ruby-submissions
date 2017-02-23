@@ -7,7 +7,7 @@
   - Github Repo: https://github.com/CPowell23/module_3_assessment
   
 ## Amy
-  - Github Repo:
+  - Github Repo: https://github.com/akintner/module_3_assessment
   
 ## Annie  
   - Github Repo:
@@ -46,7 +46,7 @@
   - Github Repo: https://github.com/Dpalazzari/module_3_assessment
 
 ## Lucy
-  - Github Repo: https://github.com/lucyconklin/module_3_assessment
+  - Github Repo:
 
 ## Laszlo
   - Github Repo: https://github.com/Laszlo-JFLMTCO/module_3_assessment
